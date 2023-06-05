@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Demo project</string>
     <string name="one_signal_app_id">037d0978-06b4-49b5-8bc7-5e45281e1ca4</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
